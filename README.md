@@ -1,0 +1,10 @@
+<!Doctype HTML>
+<html>
+<head>
+ <title>GH Pages Tryout</title>
+  
+</head>
+<body>
+<h1>Github Pages Tryout</h1>
+</body>
+</html>
